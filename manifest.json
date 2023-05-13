@@ -1,0 +1,20 @@
+{
+  "short_name": "Relic Builder",
+  "name": "Ninja Must Die - Relic Builder",
+  "icons": [
+    {
+      "src": "nmd.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "nmd.png",
+      "type": "image/png",
+      "sizes": "132x132"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
