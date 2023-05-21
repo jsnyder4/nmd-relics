@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nmd-relics/static/css/main.d3589a59.css",
-    "main.js": "/nmd-relics/static/js/main.9092e68c.js",
+    "main.js": "/nmd-relics/static/js/main.6dd72759.js",
     "static/js/787.349b0e60.chunk.js": "/nmd-relics/static/js/787.349b0e60.chunk.js",
     "index.html": "/nmd-relics/index.html",
     "main.d3589a59.css.map": "/nmd-relics/static/css/main.d3589a59.css.map",
-    "main.9092e68c.js.map": "/nmd-relics/static/js/main.9092e68c.js.map",
+    "main.6dd72759.js.map": "/nmd-relics/static/js/main.6dd72759.js.map",
     "787.349b0e60.chunk.js.map": "/nmd-relics/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3589a59.css",
-    "static/js/main.9092e68c.js"
+    "static/js/main.6dd72759.js"
   ]
 }
