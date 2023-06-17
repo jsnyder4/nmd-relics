@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nmd-relics/static/css/main.d43cfe90.css",
-    "main.js": "/nmd-relics/static/js/main.cc97b239.js",
+    "main.js": "/nmd-relics/static/js/main.46038b5c.js",
     "static/js/787.349b0e60.chunk.js": "/nmd-relics/static/js/787.349b0e60.chunk.js",
     "static/media/Wine Master's Gourd.png": "/nmd-relics/static/media/Wine Master's Gourd.4423ca603e4950d4e85b.png",
     "static/media/Tengu's Fang.png": "/nmd-relics/static/media/Tengu's Fang.cb027a5bc39694a1ee5c.png",
@@ -31,11 +31,13 @@
     "static/media/Nova Taiko.png": "/nmd-relics/static/media/Nova Taiko.78b63320eb03e20fe257.png",
     "static/media/Daruma - Evil.png": "/nmd-relics/static/media/Daruma - Evil.18374873600ebf39d797.png",
     "static/media/Tengu Mask.png": "/nmd-relics/static/media/Tengu Mask.d44655b70692d289de69.png",
+    "static/media/Blossom Shuriken.png": "/nmd-relics/static/media/Blossom Shuriken.0a21dc4e7bee0b1605bc.png",
     "static/media/Steel Gauntlet.png": "/nmd-relics/static/media/Steel Gauntlet.8008c195517924bb6c7d.png",
     "static/media/Eagle Claw Boots.png": "/nmd-relics/static/media/Eagle Claw Boots.0f29178851e067aa968c.png",
     "static/media/Jade Fox Folding Fan.png": "/nmd-relics/static/media/Jade Fox Folding Fan.4ced21b542495dbc22b3.png",
     "static/media/Dragon Bone Horn.png": "/nmd-relics/static/media/Dragon Bone Horn.904eb06697f9f36a9437.png",
     "static/media/Fire Shuriken.png": "/nmd-relics/static/media/Fire Shuriken.4d503e1fcc78bb31aef1.png",
+    "static/media/Devileye Ring.png": "/nmd-relics/static/media/Devileye Ring.3ea83e4905dc234f6eb5.png",
     "static/media/Demon Hound's Teeth.png": "/nmd-relics/static/media/Demon Hound's Teeth.535fc6b37ed681ec25db.png",
     "static/media/Regeneration Hormone.png": "/nmd-relics/static/media/Regeneration Hormone.25dcf3c523f1a187becb.png",
     "static/media/Furinkazan Flag.png": "/nmd-relics/static/media/Furinkazan Flag.5a11291866a0439f124c.png",
@@ -70,6 +72,9 @@
     "static/media/S-Relic Frame.png": "/nmd-relics/static/media/S-Relic Frame.7a5d1eb2e949e5e71eb3.png",
     "static/media/C-Relic Frame.png": "/nmd-relics/static/media/C-Relic Frame.fed75b9d803c3d09ac1f.png",
     "static/media/D-Relic Frame.png": "/nmd-relics/static/media/D-Relic Frame.69468e700f899ad2a1d9.png",
+    "static/media/Mechanical Owl.png": "/nmd-relics/static/media/Mechanical Owl.004a0d93d983ae0e94fd.png",
+    "static/media/Moonlit Calonyction.png": "/nmd-relics/static/media/Moonlit Calonyction.c6d79b5c6d26a6415bdd.png",
+    "static/media/Moon Grain Pot.png": "/nmd-relics/static/media/Moon Grain Pot.db0498971a1e16a5aad3.png",
     "static/media/Thunder Vajra.png": "/nmd-relics/static/media/Thunder Vajra.2a15b7b19e5264658151.png",
     "static/media/SS-Relic Recipe.png": "/nmd-relics/static/media/SS-Relic Recipe.6efd7076946b76345eed.png",
     "static/media/S-Relic Recipe.png": "/nmd-relics/static/media/S-Relic Recipe.9af9a5423be010f0eb35.png",
@@ -79,7 +84,9 @@
     "static/media/Ice Fox Pendant.png": "/nmd-relics/static/media/Ice Fox Pendant.3992df1d848a7341d9e2.png",
     "static/media/Kamaitachi Contract.png": "/nmd-relics/static/media/Kamaitachi Contract.cf1e6ce57e3b8e74d451.png",
     "static/media/Flame Dragon Soul Lantern.png": "/nmd-relics/static/media/Flame Dragon Soul Lantern.0c640eda640d07e97c24.png",
+    "static/media/Fire Rattle.png": "/nmd-relics/static/media/Fire Rattle.ba8c6b5c8c92e7b7510d.png",
     "static/media/Wind Blade Scroll.png": "/nmd-relics/static/media/Wind Blade Scroll.14209c0e51f1bb6ee49c.png",
+    "static/media/Dragon Spirit Mask.png": "/nmd-relics/static/media/Dragon Spirit Mask.df72b2a8c8781fec543b.png",
     "static/media/Land of Steam Technician.png": "/nmd-relics/static/media/Land of Steam Technician.7a4ed5e306a8d3ba2388.png",
     "static/media/Red Lotus Crystal.png": "/nmd-relics/static/media/Red Lotus Crystal.144c5247e0b38e9922cc.png",
     "static/media/C-Relic Recipe.png": "/nmd-relics/static/media/C-Relic Recipe.cd08cd23b08500e3442f.png",
@@ -88,6 +95,7 @@
     "static/media/Phoenix Jade Pendant.png": "/nmd-relics/static/media/Phoenix Jade Pendant.00001466f0da8dbbb042.png",
     "static/media/Thunderbird Scroll.png": "/nmd-relics/static/media/Thunderbird Scroll.92f63b4ffde6e7c4275e.png",
     "static/media/D.png": "/nmd-relics/static/media/D.0e6543857c4867788bc5.png",
+    "static/media/MVP Trophy.png": "/nmd-relics/static/media/MVP Trophy.9849665811b27d28aa20.png",
     "static/media/Specter Steel Trap.png": "/nmd-relics/static/media/Specter Steel Trap.d57690e707c6f9149c82.png",
     "static/media/Aoki's Kiss.png": "/nmd-relics/static/media/Aoki's Kiss.c325b04675e296c5b7b7.png",
     "static/media/Seven Flame Rosary.png": "/nmd-relics/static/media/Seven Flame Rosary.6fec5bea897a86c4a682.png",
@@ -102,11 +110,11 @@
     "static/media/share.svg": "/nmd-relics/static/media/share.5040f8169ff7564d7d7ab24f44c81725.svg",
     "static/media/save.svg": "/nmd-relics/static/media/save.cea88a176d48baf82442b781822b6fc2.svg",
     "main.d43cfe90.css.map": "/nmd-relics/static/css/main.d43cfe90.css.map",
-    "main.cc97b239.js.map": "/nmd-relics/static/js/main.cc97b239.js.map",
+    "main.46038b5c.js.map": "/nmd-relics/static/js/main.46038b5c.js.map",
     "787.349b0e60.chunk.js.map": "/nmd-relics/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d43cfe90.css",
-    "static/js/main.cc97b239.js"
+    "static/js/main.46038b5c.js"
   ]
 }
