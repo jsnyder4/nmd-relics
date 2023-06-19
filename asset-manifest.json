@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nmd-relics/static/css/main.d43cfe90.css",
-    "main.js": "/nmd-relics/static/js/main.46038b5c.js",
+    "main.js": "/nmd-relics/static/js/main.2e3cec49.js",
     "static/js/787.349b0e60.chunk.js": "/nmd-relics/static/js/787.349b0e60.chunk.js",
     "static/media/Wine Master's Gourd.png": "/nmd-relics/static/media/Wine Master's Gourd.4423ca603e4950d4e85b.png",
     "static/media/Tengu's Fang.png": "/nmd-relics/static/media/Tengu's Fang.cb027a5bc39694a1ee5c.png",
@@ -110,11 +110,11 @@
     "static/media/share.svg": "/nmd-relics/static/media/share.5040f8169ff7564d7d7ab24f44c81725.svg",
     "static/media/save.svg": "/nmd-relics/static/media/save.cea88a176d48baf82442b781822b6fc2.svg",
     "main.d43cfe90.css.map": "/nmd-relics/static/css/main.d43cfe90.css.map",
-    "main.46038b5c.js.map": "/nmd-relics/static/js/main.46038b5c.js.map",
+    "main.2e3cec49.js.map": "/nmd-relics/static/js/main.2e3cec49.js.map",
     "787.349b0e60.chunk.js.map": "/nmd-relics/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d43cfe90.css",
-    "static/js/main.46038b5c.js"
+    "static/js/main.2e3cec49.js"
   ]
 }
