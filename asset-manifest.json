@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nmd-relics/static/css/main.d43cfe90.css",
-    "main.js": "/nmd-relics/static/js/main.c6dea388.js",
+    "main.js": "/nmd-relics/static/js/main.a0fd741e.js",
     "static/js/787.349b0e60.chunk.js": "/nmd-relics/static/js/787.349b0e60.chunk.js",
     "static/media/Wine Master's Gourd.png": "/nmd-relics/static/media/Wine Master's Gourd.4423ca603e4950d4e85b.png",
     "static/media/Tengu's Fang.png": "/nmd-relics/static/media/Tengu's Fang.cb027a5bc39694a1ee5c.png",
@@ -33,6 +33,7 @@
     "static/media/Tengu Mask.png": "/nmd-relics/static/media/Tengu Mask.d44655b70692d289de69.png",
     "static/media/Blossom Shuriken.png": "/nmd-relics/static/media/Blossom Shuriken.0a21dc4e7bee0b1605bc.png",
     "static/media/Steel Gauntlet.png": "/nmd-relics/static/media/Steel Gauntlet.8008c195517924bb6c7d.png",
+    "static/media/Nyanta Wallet.png": "/nmd-relics/static/media/Nyanta Wallet.b42a7020891c0773f49c.png",
     "static/media/Eagle Claw Boots.png": "/nmd-relics/static/media/Eagle Claw Boots.0f29178851e067aa968c.png",
     "static/media/Jade Fox Folding Fan.png": "/nmd-relics/static/media/Jade Fox Folding Fan.4ced21b542495dbc22b3.png",
     "static/media/Dragon Bone Horn.png": "/nmd-relics/static/media/Dragon Bone Horn.904eb06697f9f36a9437.png",
@@ -58,6 +59,7 @@
     "static/media/Ninjutsu Shattered Scroll.png": "/nmd-relics/static/media/Ninjutsu Shattered Scroll.695e23f6cfd6d40e08b8.png",
     "static/media/Stealth Suit.png": "/nmd-relics/static/media/Stealth Suit.05763a460d4b007a7b1b.png",
     "static/media/Ninjutsu Secret Scroll.png": "/nmd-relics/static/media/Ninjutsu Secret Scroll.fe5c04b46af46c7060ed.png",
+    "static/media/Tiger Teeth.png": "/nmd-relics/static/media/Tiger Teeth.e81df5c6c3c636516f8d.png",
     "static/media/Envenomed Shuriken.png": "/nmd-relics/static/media/Envenomed Shuriken.18a8e436b64c061bed38.png",
     "static/media/Ninjutsu Cheat Sheet.png": "/nmd-relics/static/media/Ninjutsu Cheat Sheet.6e49fc9c7d411035f7fb.png",
     "static/media/Ashigaru Armor.png": "/nmd-relics/static/media/Ashigaru Armor.dfbcae65837aed6a2551.png",
@@ -110,11 +112,11 @@
     "static/media/share.svg": "/nmd-relics/static/media/share.5040f8169ff7564d7d7ab24f44c81725.svg",
     "static/media/save.svg": "/nmd-relics/static/media/save.cea88a176d48baf82442b781822b6fc2.svg",
     "main.d43cfe90.css.map": "/nmd-relics/static/css/main.d43cfe90.css.map",
-    "main.c6dea388.js.map": "/nmd-relics/static/js/main.c6dea388.js.map",
+    "main.a0fd741e.js.map": "/nmd-relics/static/js/main.a0fd741e.js.map",
     "787.349b0e60.chunk.js.map": "/nmd-relics/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d43cfe90.css",
-    "static/js/main.c6dea388.js"
+    "static/js/main.a0fd741e.js"
   ]
 }
