@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nmd-relics/static/css/main.d43cfe90.css",
-    "main.js": "/nmd-relics/static/js/main.47dda234.js",
+    "main.js": "/nmd-relics/static/js/main.9502263a.js",
     "static/js/787.349b0e60.chunk.js": "/nmd-relics/static/js/787.349b0e60.chunk.js",
     "static/media/Wine Master's Gourd.png": "/nmd-relics/static/media/Wine Master's Gourd.4423ca603e4950d4e85b.png",
     "static/media/Tengu's Fang.png": "/nmd-relics/static/media/Tengu's Fang.cb027a5bc39694a1ee5c.png",
@@ -87,12 +87,15 @@
     "static/media/Kamaitachi Contract.png": "/nmd-relics/static/media/Kamaitachi Contract.cf1e6ce57e3b8e74d451.png",
     "static/media/Flame Dragon Soul Lantern.png": "/nmd-relics/static/media/Flame Dragon Soul Lantern.0c640eda640d07e97c24.png",
     "static/media/Fire Rattle.png": "/nmd-relics/static/media/Fire Rattle.ba8c6b5c8c92e7b7510d.png",
+    "static/media/Fox Spirit Bell.png": "/nmd-relics/static/media/Fox Spirit Bell.cc9a90b75c504c2d9ee2.png",
     "static/media/Wind Blade Scroll.png": "/nmd-relics/static/media/Wind Blade Scroll.14209c0e51f1bb6ee49c.png",
     "static/media/Dragon Spirit Mask.png": "/nmd-relics/static/media/Dragon Spirit Mask.df72b2a8c8781fec543b.png",
     "static/media/Land of Steam Technician.png": "/nmd-relics/static/media/Land of Steam Technician.7a4ed5e306a8d3ba2388.png",
     "static/media/Red Lotus Crystal.png": "/nmd-relics/static/media/Red Lotus Crystal.144c5247e0b38e9922cc.png",
     "static/media/C-Relic Recipe.png": "/nmd-relics/static/media/C-Relic Recipe.cd08cd23b08500e3442f.png",
+    "static/media/Frost Moon Case.png": "/nmd-relics/static/media/Frost Moon Case.55edcdd3835af4b9e55c.png",
     "static/media/Daruma Panda.png": "/nmd-relics/static/media/Daruma Panda.56f17e1ffc2f3e478b86.png",
+    "static/media/Redemptive Echo.png": "/nmd-relics/static/media/Redemptive Echo.bfb40f762cf6b3ca2a91.png",
     "static/media/Frozen Feather.png": "/nmd-relics/static/media/Frozen Feather.8a70d954a5070d203a0e.png",
     "static/media/Phoenix Jade Pendant.png": "/nmd-relics/static/media/Phoenix Jade Pendant.00001466f0da8dbbb042.png",
     "static/media/Thunderbird Scroll.png": "/nmd-relics/static/media/Thunderbird Scroll.92f63b4ffde6e7c4275e.png",
@@ -112,11 +115,11 @@
     "static/media/share.svg": "/nmd-relics/static/media/share.5040f8169ff7564d7d7ab24f44c81725.svg",
     "static/media/save.svg": "/nmd-relics/static/media/save.cea88a176d48baf82442b781822b6fc2.svg",
     "main.d43cfe90.css.map": "/nmd-relics/static/css/main.d43cfe90.css.map",
-    "main.47dda234.js.map": "/nmd-relics/static/js/main.47dda234.js.map",
+    "main.9502263a.js.map": "/nmd-relics/static/js/main.9502263a.js.map",
     "787.349b0e60.chunk.js.map": "/nmd-relics/static/js/787.349b0e60.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d43cfe90.css",
-    "static/js/main.47dda234.js"
+    "static/js/main.9502263a.js"
   ]
 }
